@@ -1,0 +1,7 @@
+{
+  "name": "uonsalary",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
